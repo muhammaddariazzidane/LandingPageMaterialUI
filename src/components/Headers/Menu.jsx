@@ -31,7 +31,7 @@ export default function BasicMenu() {
           <AccountCircleTwoToneIcon />
           Profile
         </MenuItem>
-        <MenuItem onClick={handleClose}>My account</MenuItem>
+        <MenuItem onClick={handleClose}>Dashboard</MenuItem>
         <MenuItem onClick={handleClose}>Logout</MenuItem>
       </Menu>
     </>
